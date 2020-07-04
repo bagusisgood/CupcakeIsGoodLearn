@@ -13,6 +13,7 @@
 		32F7216E24B052580048CB00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32F7216D24B052580048CB00 /* Assets.xcassets */; };
 		32F7217124B052580048CB00 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32F7217024B052580048CB00 /* Preview Assets.xcassets */; };
 		32F7217424B052580048CB00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32F7217224B052580048CB00 /* LaunchScreen.storyboard */; };
+		32F7217C24B07FDD0048CB00 /* DisablingForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F7217B24B07FDD0048CB00 /* DisablingForm.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		32F7217024B052580048CB00 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		32F7217324B052580048CB00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		32F7217524B052580048CB00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32F7217B24B07FDD0048CB00 /* DisablingForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisablingForm.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				32F7216724B052550048CB00 /* AppDelegate.swift */,
 				32F7216924B052550048CB00 /* SceneDelegate.swift */,
 				32F7216B24B052550048CB00 /* ContentView.swift */,
+				32F7217B24B07FDD0048CB00 /* DisablingForm.swift */,
 				32F7216D24B052580048CB00 /* Assets.xcassets */,
 				32F7217224B052580048CB00 /* LaunchScreen.storyboard */,
 				32F7217524B052580048CB00 /* Info.plist */,
@@ -149,6 +152,7 @@
 				32F7216824B052550048CB00 /* AppDelegate.swift in Sources */,
 				32F7216A24B052550048CB00 /* SceneDelegate.swift in Sources */,
 				32F7216C24B052550048CB00 /* ContentView.swift in Sources */,
+				32F7217C24B07FDD0048CB00 /* DisablingForm.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
